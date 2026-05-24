@@ -1,4 +1,4 @@
-# FAHH-Node 
+# MacNode 
 
 execution layer for spawning, managing, and evolving token-protected threads
 CPU or Apple GPU (Metal) — controlled, fast, precise
@@ -129,4 +129,6 @@ python -m core.delete 1.0 2.0
 
 ---
 
-> FAHH-Node = execute with control. not chaos.
+* IDK why i created this.
+* USe at you own risk, it may or may not work or deep fry your mac or VM.
+* Readme by ai cuz im lazy , and code by my glitched mind. 
