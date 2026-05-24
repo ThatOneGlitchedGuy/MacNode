@@ -129,6 +129,8 @@ python -m core.delete 1.0 2.0
 
 ---
 
-* IDK why i created this.
-* USe at you own risk, it may or may not work or deep fry your mac or VM.
-* Readme by ai cuz im lazy , and code by my glitched mind. 
+* no idea why this exists
+
+* probably fine. probably not.
+
+* readme helped by tools, code helped by insomnia
